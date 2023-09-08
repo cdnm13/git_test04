@@ -9,6 +9,7 @@ function b(){
 
 
 }
+function c(){
 
 
 
@@ -16,12 +17,11 @@ function b(){
 
 
 
+}
 
 
 
-
-
-function a(){
+function a(int exp){
 
 
 
