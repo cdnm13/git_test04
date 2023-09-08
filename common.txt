@@ -10,6 +10,7 @@ function b(){
 
 }
 
+function c(){
 
 
 
@@ -17,11 +18,10 @@ function b(){
 
 
 
+}
 
 
-
-
-function a(){
+function a(String name){
 
 
 
