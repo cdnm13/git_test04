@@ -18,13 +18,10 @@ function c(){
 
 
 
-}
-
-
-function a(String name){
-
-
-
-
 
 }
+
+
+function a(int exp,String master){
+}
+
